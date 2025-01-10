@@ -1,11 +1,10 @@
 <div align="center">
   
 #  👋 Hi, I'm Charfeddine Fredj!
+
 </div>
 
-
-
-# 👨‍💻 **Software Engineer | Full-Stack Developer**  
+## 👨‍💻 **Software Engineer | Full-Stack Developer**  
 🚀 Building scalable and innovative web solutions.  
 💡 Passionate about clean code and continuous learning.
 
