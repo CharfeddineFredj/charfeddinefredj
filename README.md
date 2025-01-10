@@ -30,7 +30,7 @@
 
 📫 **How to reach me:**  
 
-<a href="https://www.linkedin.com/in/charfeddine-fredj-b30635141/">
+<a href="https://www.linkedin.com/in/charfeddinefredjb30635141/">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" alt="LinkedIn" width="20" height="20" />
 </a>
 &nbsp;|&nbsp;
