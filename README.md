@@ -49,9 +49,8 @@
 </div>
 &nbsp;&nbsp;
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharfeddineFredj&show_icons=true&count_private=true&hide=prs&theme=blue-green&bg_color=ffffff)
 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharfeddineFredj&show_icons=true&count_private=true&hide=prs&theme=transparent)
 
 </div>
 
