@@ -27,6 +27,14 @@
 
 ---
 
-
 📫 **How to reach me:**  
-[GitHub](https://github.com/charfeddinefarj) | [LinkedIn](https://www.linkedin.com/in/charfeddinefarj) | [Email](mailto:charfeddine@example.com)
+<a href="https://www.linkedin.com/in/charfeddinefarj" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20" />
+</a>  
+[LinkedIn](https://www.linkedin.com/in/charfeddinefarj)  
+&nbsp;|&nbsp;  
+<a href="mailto:charfeddine@example.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Email_icon_%28green%29.svg" alt="Email" width="20" height="20" />
+</a>  
+[Email](mailto:charfeddine@example.com)
+
