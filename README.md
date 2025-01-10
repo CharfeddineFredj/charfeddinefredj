@@ -25,14 +25,16 @@
   
 </div>
 
----
 
 📫 **How to reach me:**  
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/charfeddinefarj)  
+<a href="https://www.linkedin.com/in/charfeddinefarj" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" />
+</a>
 &nbsp;|&nbsp;
 <a href="mailto:charfeddine@example.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20" height="20" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30" />
 </a>
+
 
 
 
