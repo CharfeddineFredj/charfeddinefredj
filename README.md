@@ -28,7 +28,7 @@
 ---
 
 📫 **How to reach me:**  
-<a href="https://www.linkedin.com/in/charfeddinefarj" target="_blank">
+<a href="https://www.linkedin.com/in/CharfeddineFredj" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20" />
 </a>  
 [LinkedIn](https://www.linkedin.com/in/charfeddinefarj)  
