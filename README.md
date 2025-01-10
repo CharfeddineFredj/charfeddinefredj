@@ -34,7 +34,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" alt="LinkedIn" width="20" height="20" />
 </a>
 &nbsp;|&nbsp;
-<a href="mailto:charfeddine@example.com">
+<a href="fradjcharf@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20" height="20" />
 </a>
 
