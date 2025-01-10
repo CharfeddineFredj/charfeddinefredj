@@ -28,13 +28,13 @@
 ---
 
 📫 **How to reach me:**  
-<a href="https://www.linkedin.com/in/charfeddinefarj" target="_blank">
-  <img src="https://github.com/user-attachments/assets/86b458fe-3d62-4ea8-99e7-e8a2c0868941" alt="LinkedIn" width="30" height="30" />
+<a href="https://www.linkedin.com/in/charfeddine-fredj-b30635141/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/86b458fe-3d62-4ea8-99e7-e8a2c0868941" alt="LinkedIn" width="40" height="40" />
 </a>
 
-&nbsp;|&nbsp;
-<a href="mailto:charfeddine@example.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30" />
+&nbsp; &nbsp;
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrglzjNBpFhwDVqmRMTLhFdVfQHlRpdbvxbkHrSvqlpxwWzvSgwjcRNTMdsQfZGlbggLLq">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" />
 </a>
 
 
