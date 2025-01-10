@@ -25,6 +25,7 @@
   
 </div>
 
+---
 
 📫 **How to reach me:**  
 <a href="https://www.linkedin.com/in/charfeddinefarj" target="_blank">
