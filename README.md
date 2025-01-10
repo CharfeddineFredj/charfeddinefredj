@@ -11,3 +11,5 @@
 
 Languages and Tools: 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharfeddineFredj&show_icons=true)
+
+![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
