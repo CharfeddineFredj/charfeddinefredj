@@ -5,8 +5,11 @@
 </div>
 
 ## 👨‍💻 **Software Engineer | Full-Stack Developer**  
-🚀 Building scalable and innovative web solutions.  
-💡 Passionate about clean code and continuous learning.
+🚀 Passionné par la création de solutions web innovantes et évolutives.  
+🔧 Expertise en développement frontend et backend, intégration d'API, et optimisation des performances.  
+🎯 Toujours à la recherche de défis techniques pour apprendre et évoluer.  
+💡 Philosophie : "Le code n'est pas seulement un outil, c'est une solution à un problème."
+
 
 ### 🌐 **Technologies I Use:**
 <div align="center">
