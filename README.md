@@ -48,7 +48,9 @@
   </a>
 </div>
 
-
+<div align="center">
+  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharfeddineFredj&show_icons=true)
+</div>
 
 
