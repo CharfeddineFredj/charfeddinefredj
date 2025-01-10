@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Charfeddine Farj!  
 
 👨‍💻 **Software Engineer | Full-Stack Developer**  
+🚀 Building scalable and innovative web solutions.
+💡 Passionate about clean code and continuous learning.
 
 ### 🌐 **Technologies I Use:**  
 <div>
@@ -25,8 +27,6 @@
 
 ---
 
-🚀 Building scalable and innovative web solutions.  
-💡 Passionate about clean code and continuous learning.  
 
 📫 **How to reach me:**  
 [GitHub](https://github.com/charfeddinefarj) | [LinkedIn](https://www.linkedin.com/in/charfeddinefarj) | [Email](mailto:charfeddine@example.com)
