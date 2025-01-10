@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/draw.io/draw.io-original.svg)" alt="draw.io" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/draw.io/draw.io-original.svg" alt="draw.io" width="40" height="40"/>
 </div>
 
 ---
