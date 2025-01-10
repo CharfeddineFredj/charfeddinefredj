@@ -1,10 +1,10 @@
 <div align="center" style="font-size: 40px; font-weight: bold; color: #333;">
-  👋 Hi, I'm Charfeddine Fredj!
+## 👋 Hi, I'm Charfeddine Fredj!
 </div>
 
 
 
-## 👨‍💻 **Software Engineer | Full-Stack Developer**  
+# 👨‍💻 **Software Engineer | Full-Stack Developer**  
 🚀 Building scalable and innovative web solutions.  
 💡 Passionate about clean code and continuous learning.
 
