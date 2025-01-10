@@ -36,7 +36,6 @@
 </div>
 
 
----
 
 ### 📫 **How to reach me:**  
 <div align="center">
