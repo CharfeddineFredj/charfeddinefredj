@@ -31,13 +31,12 @@
 📫 **How to reach me:**  
 
 <a href="https://www.linkedin.com/in/charfeddinefarj" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" alt="LinkedIn" width="20" height="20" />
 </a>
-&nbsp; &nbsp;
+&nbsp;|&nbsp;
 <a href="mailto:charfeddine@example.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20" height="20" />
 </a>
-
 
 
 
