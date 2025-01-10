@@ -28,9 +28,14 @@
 ---
 
 📫 **How to reach me:**  
-[![LinkedIn](https://t3.ftcdn.net/jpg/05/46/95/44/360_F_546954457_34l2j4ZAPTXk1aNwqqhbAEfIRZsr3LfD.webp)](https://www.linkedin.com/in/charfeddinefarj)  
-&nbsp;|&nbsp;  
-[![Email](https://upload.wikimedia.org/wikipedia/commons/4/42/Mail_Icon.svg)](mailto:charfeddine@example.com)
+<a href="https://www.linkedin.com/in/charfeddinefarj" target="_blank">
+  <img src="https://t3.ftcdn.net/jpg/05/46/95/44/360_F_546954457_34l2j4ZAPTXk1aNwqqhbAEfIRZsr3LfD.webp" alt="LinkedIn" width="20" height="20" />
+</a>
+&nbsp;|&nbsp;
+<a href="mailto:charfeddine@example.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Mail_Icon.svg" alt="Email" width="20" height="20" />
+</a>
+
 
 
 
