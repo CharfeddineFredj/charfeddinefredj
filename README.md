@@ -10,4 +10,4 @@
 [LinkedIn](in/charfeddine-fredj-b30635141) | [Email](mailto:fradjcharf@gmail.com)
 
 Languages and Tools: 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charfeddinefarj&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharfeddineFredj&show_icons=true)
