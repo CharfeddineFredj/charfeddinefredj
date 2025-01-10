@@ -1,5 +1,5 @@
-<div align="center" style="font-size: 40px; font-weight: bold; color: #333;">
-## 👋 Hi, I'm Charfeddine Fredj!
+<div align="center" style="font-size: 60px; font-weight: bold; color: #333;">
+  👋 <strong>Hi, I'm Charfeddine Fredj!</strong>
 </div>
 
 
