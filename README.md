@@ -29,7 +29,7 @@
 
 📫 **How to reach me:**  
 <a href="https://www.linkedin.com/in/charfeddinefarj" target="_blank">
-  <img src="https://t3.ftcdn.net/jpg/05/46/95/44/360_F_546954457_34l2j4ZAPTXk1aNwqqhbAEfIRZsr3LfD.webp" alt="LinkedIn" width="40" height="40" />
+  <img src="https://t3.ftcdn.net/jpg/05/46/95/44/360_F_546954457_34l2j4ZAPTXk1aNwqqhbAEfIRZsr3LfD.webp" alt="LinkedIn" width="60" height="60" />
 </a>
 &nbsp; &nbsp;
 <a href="mailto:charfeddine@example.com">
