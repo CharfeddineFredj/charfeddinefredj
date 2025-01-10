@@ -28,8 +28,8 @@
 ---
 
 📫 **How to reach me:**  
-<a href="https://www.linkedin.com/in/charfeddinefarj" target="_blank">
-  <img src="https://t3.ftcdn.net/jpg/05/46/95/44/360_F_546954457_34l2j4ZAPTXk1aNwqqhbAEfIRZsr3LfD.webp" alt="LinkedIn" width="20" height="20" />
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/charfeddine-fredj-b30635141/" target="_blank">
+  <img src="https://t3.ftcdn.net/jpg/05/46/95/44/360_F_546954457_34l2j4ZAPTXk1aNwqqhbAEfIRZsr3LfD.webp" alt="LinkedIn" width="30" height="30" />
 </a>
 &nbsp;|&nbsp;
 <a href="mailto:charfeddine@example.com">
