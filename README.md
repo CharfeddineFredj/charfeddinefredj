@@ -28,10 +28,10 @@
 ---
 
 📫 **How to reach me:**  
-📫 **How to reach me:**  
-[![LinkedIn](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg)](https://www.linkedin.com/in/charfeddinefarj)  
+[![LinkedIn](https://t3.ftcdn.net/jpg/05/46/95/44/360_F_546954457_34l2j4ZAPTXk1aNwqqhbAEfIRZsr3LfD.webp)](https://www.linkedin.com/in/charfeddinefarj)  
 &nbsp;|&nbsp;  
 [![Email](https://upload.wikimedia.org/wikipedia/commons/4/42/Mail_Icon.svg)](mailto:charfeddine@example.com)
+
 
 
 
