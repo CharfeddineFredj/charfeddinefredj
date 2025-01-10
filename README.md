@@ -31,10 +31,13 @@
 <a href="https://www.linkedin.com/in/charfeddinefarj" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" />
 </a>
+![logo](https://github.com/user-attachments/assets/86b458fe-3d62-4ea8-99e7-e8a2c0868941)
 &nbsp;|&nbsp;
 <a href="mailto:charfeddine@example.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30" />
 </a>
+
+
 
 
 
