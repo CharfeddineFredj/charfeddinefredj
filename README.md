@@ -6,10 +6,10 @@
 
 ## 👨‍💻 **Software Engineer | Full-Stack Developer**  
 <div>
-🚀 Passionate about creating innovative and scalable web solutions. 
-🔧 Expertise in frontend and backend development, API integration, and performance optimization. 
-🎯 Always seeking technical challenges to learn and grow. 
-💡 Philosophy: "Code is not just a tool; it's a solution to a problem."
+- 🚀 Passionate about creating innovative and scalable web solutions. 
+- 🔧 Expertise in frontend and backend development, API integration, and performance optimization. 
+- 🎯 Always seeking technical challenges to learn and grow. 
+- 💡 Philosophy: "Code is not just a tool; it's a solution to a problem."
 </div>
 
 
