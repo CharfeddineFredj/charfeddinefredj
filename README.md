@@ -13,9 +13,9 @@
   💡 <i>"Code is not just a tool; it's a solution to a problem."</i>
 </p>
 
+<hr style="border: none; height: 1px; background-color: #e1e4e8; width: 60%; margin: 20px auto;">
 
-
-<p align="center"><strong>🌐 Technologies I Use</strong></p>
+<p align="center"><strong>🌐 Technologies</strong></p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
 </p>
 
-
+<hr style="border: none; height: 1px; background-color: #e1e4e8; width: 60%; margin: 20px auto;">
 
 <p align="center"><strong>🛠️ Tools</strong></p>
 
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
-
+<hr style="border: none; height: 1px; background-color: #e1e4e8; width: 60%; margin: 20px auto;">
 
 <p align="center"><strong>📫 Contact</strong></p>
 
@@ -58,7 +58,7 @@
   </a>
 </p>
 
----
+<hr style="border: none; height: 1px; background-color: #e1e4e8; width: 60%; margin: 20px auto;">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CharfeddineFredj&show_icons=true&theme=transparent"/>
