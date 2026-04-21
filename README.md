@@ -13,7 +13,7 @@
   💡 <i>"Code is not just a tool; it's a solution to a problem."</i>
 </p>
 
-<hr style="border: none; height: 1px; background-color: black; width: 30%; margin: 20px auto;">
+<hr style="border: none; height: 0.5px; background-color: black; width: 40%; margin: 15px auto;">
 
 <p align="center"><strong>🌐 Technologies</strong></p>
 
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
 </p>
 
-<hr style="border: none; height: 1px; background-color: #e1e4e8; width: 60%; margin: 20px auto;">
+<hr style="border: none; height: 0.5px; background-color: black; width: 40%; margin: 15px auto;">
 
 <p align="center"><strong>🛠️ Tools</strong></p>
 
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
-<hr style="border: none; height: 1px; background-color: #e1e4e8; width: 60%; margin: 20px auto;">
+<hr style="border: none; height: 0.5px; background-color: black; width: 40%; margin: 15px auto;">
 
 <p align="center"><strong>📫 Contact</strong></p>
 
