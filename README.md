@@ -13,7 +13,7 @@
   💡 <i>"Code is not just a tool; it's a solution to a problem."</i>
 </p>
 
-<br><br>
+<br>
 
 <p align="center"><strong>🌐 Technologies</strong></p>
 
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
 </p>
 
-<br><br>
+<br>
 
 <p align="center"><strong>🛠️ Tools</strong></p>
 
@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
-<br><br>
+<br>
 
 <p align="center"><strong>📫 Contact</strong></p>
 
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CharfeddineFredj&show_icons=true&theme=transparent"/>
