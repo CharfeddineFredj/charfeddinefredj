@@ -13,7 +13,7 @@
   💡 <i>"Code is not just a tool; it's a solution to a problem."</i>
 </p>
 
-
+</br>
 
 <p align="center"><strong>🌐 Technologies</strong></p>
 
