@@ -13,7 +13,7 @@
   💡 <i>"Code is not just a tool; it's a solution to a problem."</i>
 </p>
 
----
+--
 
 <p align="center"><strong>🌐 Technologies I Use</strong></p>
 
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
 </p>
 
----
+--
 
 <p align="center"><strong>🛠️ Tools</strong></p>
 
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
----
+--
 
 <p align="center"><strong>📫 Contact</strong></p>
 
