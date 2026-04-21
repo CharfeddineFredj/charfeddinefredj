@@ -13,7 +13,7 @@
   💡 <i>"Code is not just a tool; it's a solution to a problem."</i>
 </p>
 
-<hr style="border: none; height: 0.5px; color: black; width: 40%; margin: 15px auto;">
+
 
 <p align="center"><strong>🌐 Technologies</strong></p>
 
