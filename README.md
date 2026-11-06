@@ -10,7 +10,7 @@
 
 🎯 Always seeking technical challenges to learn and grow.
 
-> *"Code is not just a tool; it's a solution to a problem."*
+ *"Code is not just a tool; it's a solution to a problem."*
 
 </div>
 
