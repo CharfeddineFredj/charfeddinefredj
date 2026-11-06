@@ -18,11 +18,11 @@
 
 ## 🌐 Technologies
 
-![Technologies](https://skillicons.dev/icons?i=angular,vue,nextjs,html,typescript,spring,nestjs,laravel,symfony,php,java,python,flask,mysql,postgres&perline=8)
+![Technologies](https://skillicons.dev/icons?i=angular,vue,nextjs,html,typescript,spring,nestjs,laravel,symfony,php,java,python,flask,mysql,postgres&perline=8&theme=light)
 
 ## 🛠️ Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,docker,figma&perline=4)
+![Tools](https://skillicons.dev/icons?i=git,github,docker,figma&perline=4&theme=light)
 
 </div>
 
@@ -30,8 +30,9 @@
 
 ## 📫 Contact
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/charfeddine-fredj-b30635141/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:fradjcharf@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/charfeddine-fredj-b30635141/)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:fradjcharf@gmail.com)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharfeddineFredj&show_icons=true&theme=transparent&hide_border=true)
 
 </div>
