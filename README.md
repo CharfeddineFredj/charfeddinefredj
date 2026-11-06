@@ -33,6 +33,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/charfeddine-fredj-b30635141/)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:fradjcharf@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharfeddineFredj&show_icons=true&theme=transparent&hide_border=true)
+
 
 </div>
