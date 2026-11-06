@@ -18,7 +18,7 @@
 
 ## 🌐 Technologies
 
-![Technologies](https://skillicons.dev/icons?i=angular,vue,nextjs,html,typescript,spring,nestjs,laravel,symfony,php,java,python,flask,mysql,postgres&perline=8&theme=light)
+![Technologies](https://skillicons.dev/icons?i=angular,vue,nextjs,html,typescript,spring,nestjs,express,laravel,symfony,php,java,python,flask,mysql,postgres&perline=8&theme=light)
 
 ## 🛠️ Tools
 
